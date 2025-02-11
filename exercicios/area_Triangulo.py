@@ -10,4 +10,4 @@ a = float(input('Insira o valor do lado do triangulo'))
 b = float(input('Insira o valor da altura do triangulo'))
 
 area_triangulo = calc_area_Triangulo(a, b)     #Chamando a função "calc_area_Triangulo" para realizar o calculo.
-print(area_triangulo)                          #exibe na tela o valor da área
+print(area_triangulo)                          #Exibe na tela o valor da área
